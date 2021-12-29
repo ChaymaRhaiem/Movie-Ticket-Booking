@@ -130,8 +130,6 @@
         app:layout_constraintLeft_toRightOf="@+id/placesInfoTextView2" />
 
     <com.example.movieticketbooking.SwipeButton
-        android:layout_width=""
-        android:layout_height="".SwipeButton.java
         android:id="@+id/swipe_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
