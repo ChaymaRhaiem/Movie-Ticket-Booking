@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Github Repositories/Movie-Ticket-Booking-Android-Studio/app/src/main/res/drawable/header_background.xml" value="0.14583333333333334" />
         <entry key="..\:/Github Repositories/Movie-Ticket-Booking-Android-Studio/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1175925925925926" />
         <entry key="..\:/Github Repositories/Movie-Ticket-Booking-Android-Studio/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
         <entry key="..\:/Github Repositories/Movie-Ticket-Booking-Android-Studio/app/src/main/res/layout/fragment_favorites.xml" value="0.1" />
