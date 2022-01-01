@@ -34,19 +34,24 @@
             android:background="@drawable/white_rectangle_background"
             android:orientation="horizontal"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/layoutHeader"
+            app:layout_constraintTop_toBottomOf="@id/textHello"
             app:layout_constraintVertical_bias="1.0"
             tools:layout_editor_absoluteX="33dp">
 
             <EditText
-                android:layout_width="0dp"
+                android:layout_width="1dp"
                 android:layout_height="40dp"
-                android:layout_weigh="1"
+                android:layout_weight="1"
                 android:background="@null"
                 android:hint="search element"
-                android:innerOptions="actionSearch"
-                tools:ignore="Suspicious0dp" />
-            
+                android:imeOptions="actionSearch"
+                android:inputType="text"
+                android:paddingStart="15dp"
+                android:paddingEnd="15dp"
+                android:textColor="@color/colorAccent"
+                android:textSize="16sp"
+                android:importantForAutofill="no"
+                />
         </LinearLayout>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
